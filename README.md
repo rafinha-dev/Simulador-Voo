@@ -36,7 +36,7 @@ Após a compilação, será criado o executável:
 simulador
 ```
 
-## Execução
+A pasta aeroportos precisa estar na mesma pasta do arquivo executavel. Pois são os arquivos de configurações  dos aeroportos que servem para o funcionamento do sistema. 
 
 Para executar utilizando o menu interativo de seleção do aeroporto:
 
